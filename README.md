@@ -1,21 +1,12 @@
-# AllInOne
+# All in One
 
-All In One is an ultimate android app that contains all your important android apps in less than 5 Mb
-It contains :
- Amazon
- Flipkart
- Facebook
- Instagram
- Youtube
- Tiktok
- Reddit
- Pinterest
- Medium
-and many more such apps
 
-You DON'T NEED TO INSTALL ANY OF THESE APPS EXPLICITLY
-THESE ALL APPS ARE ALREADY PRESENT IN THIS APP
+This app contains webview of multiple daily life apps, so you don't need to install them separately. 
 
-This apps saves a lot of your phone memory so that you can use it for storing other useful information
 
-Enjoy Your Phone ! We'll take care of storage :)
+<img src="https://i.ibb.co/rfNwDXB/Screenshot-20201106-213713.png
+" width="500" height="700"/>
+<img src="https://i.ibb.co/MhFQJX8/Screenshot-20201106-213736.png
+" width="500" height="700"/>
+<img src="https://i.ibb.co/7Yw4vWX/Screenshot-20201106-213811.png
+" width="500" height="700"/>
